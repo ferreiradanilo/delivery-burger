@@ -1,6 +1,6 @@
 <template>
   <footer id="footer">
-  <p>Make Your Burguer &copy; 2021</p>
+  <p>Copyright &copy; 2021, Danilo Ferreira - Todos os diretos reservados</p>
   </footer>
 </template>
 
